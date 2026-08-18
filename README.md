@@ -32,6 +32,7 @@ Display the dilated image.
 Compare the original, eroded, and dilated images.
 
  Name: GEETHUNEEPA TK
+ 
  Register no: 212225220033
 ## Program:
 
