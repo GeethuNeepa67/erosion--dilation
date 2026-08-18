@@ -31,8 +31,8 @@ Display the dilated image.
 ## Step 8:
 Compare the original, eroded, and dilated images.
 
- Name:R Venkatramani
- Register no: 212225240182
+ Name: GEETHUNEEPA TK
+ Register no: 212225220033
 ## Program:
 
 ``` Python
